@@ -12,9 +12,9 @@
   https://github.com/rand0mn/boxoffice_scraper
   
 Пример источников:
-  Уик-энды: https://www.kinopoisk.ru/index.php?level=42&type=rus&year=2007
-  Сборы уик-энда: https://www.kinopoisk.ru/box/weekend/2022-02-18/type/rus/cur/RUB/view/all/
-  Информация о фильме: https://www.kinopoisk.ru/film/468373/
+  Уик-энды: https://www.kinopoisk.ru/index.php?level=42&type=rus&year=2007  
+  Сборы уик-энда: https://www.kinopoisk.ru/box/weekend/2022-02-18/type/rus/cur/RUB/view/all/  
+  Информация о фильме: https://www.kinopoisk.ru/film/468373/  
 
 TODO:
 - Сделать анализ каждого дистрибьютора из топ-10
